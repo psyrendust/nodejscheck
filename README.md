@@ -1,7 +1,7 @@
 # nodejscheck
 Checks if Node.js and NPM are installed, retrieves the installed version numbers, and fetches the version numbers for the latest releases.
 
-<script type="text/javascript" src="https://asciinema.org/a/15562.js" id="asciicast-15562" async></script>
+![Demo](asciicast.gif)
 
 ## Usage
 
